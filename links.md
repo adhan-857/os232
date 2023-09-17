@@ -16,7 +16,7 @@ Cyber security refers to every aspect of protecting an organization and its empl
 * [Protection and Security in Operating System | Scaler Topics](https://www.scaler.com/topics/protection-and-security-in-operating-system/) --- 
 Operating systems manage both logical and physical resources to prevent interference with each other and unauthorized access from external sources. These methods are categorized as protection and security in the operating system.
 
-* [C Tutorial]((https://www.w3schools.com/c/index.php)) --- 
+* [C Tutorial](https://www.w3schools.com/c/index.php) --- 
 Website to learn C language. C is very powerful; it has been used to develop operating systems, databases, applications, etc.
 <br>
 <hr>
