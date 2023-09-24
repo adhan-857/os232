@@ -18,5 +18,14 @@ Operating systems manage both logical and physical resources to prevent interfer
 
 * [C Tutorial](https://www.w3schools.com/c/index.php) --- 
 Website to learn C language. C is very powerful; it has been used to develop operating systems, databases, applications, etc.
+
+* [File System in Operating System (OS)](https://www.scaler.com/topics/file-systems-in-os/) --- 
+An overview of file system in an operating system to decides the way the contents of its storage medium (secondary memory, etc) are stored and organized.
+
+* [Operating System - File System](https://www.tutorialspoint.com/operating_system/os_file_system.htm) --- 
+Website to learn more about file system in an operating system. This website also contain useful resources to learn more about operating system.
+
+* [FUSE - The Linux Kernel Documentation](https://www.kernel.org/doc/html/next/filesystems/fuse.html) --- 
+Documentation of FUSE, a software interface for Unix and Unix-like computer operating systems that lets non-privileged users create their own file systems without editing kernel code.
 <br>
 <hr>
