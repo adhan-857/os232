@@ -27,5 +27,11 @@ Website to learn more about file system in an operating system. This website als
 
 * [FUSE - The Linux Kernel Documentation](https://www.kernel.org/doc/html/next/filesystems/fuse.html) --- 
 Documentation of FUSE, a software interface for Unix and Unix-like computer operating systems that lets non-privileged users create their own file systems without editing kernel code.
+
+* [C Memory Address](https://www.w3schools.com/c/c_memory_address.php) ---
+Website to learn about memory addressing. When a variable is created in C, a memory address is assigned to the variable. The memory address is the location of where the variable is stored on the computer.
+
+* [Memory Management in Operating Systems](https://www.geeksforgeeks.org/memory-management-in-operating-system/) ---
+The term memory can be defined as a collection of data in a specific format. It is used to store instructions and process data. This website is used by me to learn more about memory management in operating systems.
 <br>
 <hr>
