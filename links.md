@@ -33,5 +33,11 @@ Website to learn about memory addressing. When a variable is created in C, a mem
 
 * [Memory Management in Operating Systems](https://www.geeksforgeeks.org/memory-management-in-operating-system/) ---
 The term memory can be defined as a collection of data in a specific format. It is used to store instructions and process data. This website is used by me to learn more about memory management in operating systems.
+
+* [What is Virtual Memory?](https://www.techtarget.com/searchstorage/definition/virtual-memory) ---
+This website explains about what virtual memory is, how virtual memory works, types of virtual memory, how to manage virtual memory, and the benefit of using virtual memory.
+
+* [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) ---
+Virtual Memory is a storage allocation scheme in which secondary memory can be addressed as though it were part of the main memory. This website explains about virtual memory in operating systems.
 <br>
 <hr>
