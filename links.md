@@ -39,5 +39,14 @@ This website explains about what virtual memory is, how virtual memory works, ty
 
 * [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) ---
 Virtual Memory is a storage allocation scheme in which secondary memory can be addressed as though it were part of the main memory. This website explains about virtual memory in operating systems.
+
+* [5: Concurrency and Process Synchronization - Engineering LibreTexts](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/05%3A_Process_Synchronization) ---
+This website provides learning materials about the basics of concurrency and process synchronization.
+
+* [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8) ---
+If we want a process to be able to execute on multiple CPUs at a time, to take advantage of the multi-core systems, the process must have several execution-context called threads. This medium blog is used to learn more about thread and concurrency.
+
+* [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/) ---
+Concurrency is the execution of multiple instruction sequences at the same time. This website is explaining about the basics of concurency in operating system.
 <br>
 <hr>
