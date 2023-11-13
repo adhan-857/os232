@@ -48,5 +48,11 @@ If we want a process to be able to execute on multiple CPUs at a time, to take a
 
 * [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/) ---
 Concurrency is the execution of multiple instruction sequences at the same time. This website is explaining about the basics of concurency in operating system.
+
+* [Process Synchronization in OS - PrepBytes](https://www.prepbytes.com/blog/operating-system/process-synchronization-in-os-definition-working-and-example/) ---
+This website is used to learn about process synchronization because is very helpfull when multiple processes are running at the same time and more than one process has access to the same data or resources at the same time.
+
+* [What is Deadlock in Operating System (OS)?](https://www.javatpoint.com/os-deadlocks-introduction) ---
+Every process needs some resources to complete its execution. However, the resource is granted in a sequential order. A Deadlock is a situation where each of the computer process waits for a resource which is being assigned to some another process.
 <br>
 <hr>
