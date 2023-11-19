@@ -54,5 +54,8 @@ This website is used to learn about process synchronization because is very help
 
 * [What is Deadlock in Operating System (OS)?](https://www.javatpoint.com/os-deadlocks-introduction) ---
 Every process needs some resources to complete its execution. However, the resource is granted in a sequential order. A Deadlock is a situation where each of the computer process waits for a resource which is being assigned to some another process.
+
+* [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm) ---
+Process scheduling is an essential part of a Multiprogramming operating systems. The process scheduling is the activity of the process manager that handles the removal of the running process from the CPU and the selection of another process on the basis of a particular strategy.
 <br>
 <hr>
